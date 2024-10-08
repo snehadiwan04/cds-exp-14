@@ -262,7 +262,7 @@ int main()
 ### 3: *Multilevel Inheritance*
 
 ### 4: *Inheritance*
-
+![Screenshot 2024-10-08 215031](https://github.com/user-attachments/assets/7d2f7c3a-ab78-400c-b172-6ced81a19124)
 
 ### Conclusion :
 A useful object-oriented programming (OOP) technique in C++ is inheritance, which lets a class (also referred to as a derived class) inherit traits and actions (data members and member functions) from another class (referred to as the base class). It encourages flexibility, hierarchical relationships between classes, and reusing code. <BR>
