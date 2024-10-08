@@ -256,11 +256,12 @@ int main()
 ### outputs :
 ### 1: *Single Inheritance*
 
+![Screenshot 2024-10-08 215227](https://github.com/user-attachments/assets/237d8c2e-af4c-4910-a910-7a267d27f04c)
 
 ### 2: *Multiple Inheritance*
-
+![Screenshot 2024-10-08 215258](https://github.com/user-attachments/assets/589b3557-ec0b-449c-bf80-0f10fbf3226c)
 ### 3: *Multilevel Inheritance*
-
+![Screenshot 2024-10-08 215358](https://github.com/user-attachments/assets/291c1077-40f8-49b3-a0b1-ec6950caf848)
 ### 4: *Inheritance*
 ![Screenshot 2024-10-08 215031](https://github.com/user-attachments/assets/7d2f7c3a-ab78-400c-b172-6ced81a19124)
 
